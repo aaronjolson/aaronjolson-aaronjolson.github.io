@@ -30,7 +30,7 @@
 
 
 
-<meta property="og:updated_time" content="2017-12-24T12:10:51&#43;02:00"/>
+<meta property="og:updated_time" content="2017-12-30T12:10:51&#43;02:00"/>
 
 
 
@@ -178,12 +178,12 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        6
+        7
         <span>Posts</span>
       </div>
       <div class="article-info-block">
         
-          9
+          10
         
         <span>
             Tags
@@ -265,6 +265,142 @@
 <article class="article article-type-post" itemscope="" itemprop="blogPost">
     <div class="article-inner">
         
+        </a>
+
+        <header class="article-header">
+    <a href="https://aaronjolson.github.io/2017/12/30/simple-hugo-hosting-on-github/">
+    <h1 class="article-title" itemprop="name">
+        Simple Hugo Hosting on Github
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2017-12-30 12:10:51 &#43;0200 &#43;0200" itemprop="datePublished">2017-12-30</time>
+            &middot;
+            399
+            words
+            &middot;
+            2
+            minute read
+        </div>
+        
+        
+            
+            
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="https://aaronjolson.github.io/tags/hugo">hugo</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://aaronjolson.github.io/tags/github">github</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+        <div class="article-entry" itemprop="articleBody">
+            <p>
+                How to Set Up Github Hosting with a Hugo Site
+            </p>
+            <p class="article-more-link">
+                <a href="https://aaronjolson.github.io/2017/12/30/simple-hugo-hosting-on-github/">
+                    Read more
+                </a>
+            </p>
+        </div>
+        <footer class="article-footer">
+    <a data-url="https://aaronjolson.github.io/2017/12/30/simple-hugo-hosting-on-github/" data-id="643f8d7dbf50c6fd39bc8e36525b465f" class="article-share-link">
+        <i class="fa fa-share"></i>
+        Share
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+    </div>
+</article>
+
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+        
         <a href="https://aaronjolson.github.io/2017/12/24/migrating-a-simple-python-setup-from-macos-or-ubuntu-to-windows/" itemprop="url">
             <img src="https://aaronjolson.github.io/images/window-snek.jpg" class="article-banner">
         
@@ -330,7 +466,7 @@
             </p>
         </div>
         <footer class="article-footer">
-    <a data-url="https://aaronjolson.github.io/2017/12/24/migrating-a-simple-python-setup-from-macos-or-ubuntu-to-windows/" data-id="216ac87e9e9725f38ef92dad8b75a919" class="article-share-link">
+    <a data-url="https://aaronjolson.github.io/2017/12/24/migrating-a-simple-python-setup-from-macos-or-ubuntu-to-windows/" data-id="45b3fdf1730f2c7d3e35162c888d83b1" class="article-share-link">
         <i class="fa fa-share"></i>
         Share
     </a>
@@ -1100,6 +1236,25 @@ menu = &quot;main&quot;
             
             <li>
                 <div class="item-thumbnail">
+                    <a href="https://aaronjolson.github.io/2017/12/30/simple-hugo-hosting-on-github/" class="thumbnail">
+                    
+                        <span class="thumbnail-image thumbnail-none"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    
+                    <p class="item-title"><a href="https://aaronjolson.github.io/2017/12/30/simple-hugo-hosting-on-github/" class="title">Simple Hugo Hosting on Github</a></p>
+                    <p class="item-date">
+                        <time datetime="2017-12-30 12:10:51 &#43;0200 &#43;0200" itemprop="datePublished">2017-12-30</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
                     <a href="https://aaronjolson.github.io/2017/12/24/migrating-a-simple-python-setup-from-macos-or-ubuntu-to-windows/" class="thumbnail">
                     
                         <span style="background-image:url(https://aaronjolson.github.io/images/window-snek.jpg)" alt="Aaron&#39;s Blog" class="thumbnail-image"></span>
@@ -1174,25 +1329,6 @@ menu = &quot;main&quot;
                 </div>
             </li>
             
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://aaronjolson.github.io/2017/05/20/formulas-with-mathjax/" class="thumbnail">
-                    
-                        <span class="thumbnail-image thumbnail-none"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    
-                    
-                    <p class="item-title"><a href="https://aaronjolson.github.io/2017/05/20/formulas-with-mathjax/" class="title">Formulas with MathJax</a></p>
-                    <p class="item-date">
-                        <time datetime="2017-05-20 11:58:06 &#43;0200 &#43;0200" itemprop="datePublished">2017-05-20</time>
-                    </p>
-                </div>
-            </li>
-            
         </ul>
     </div>
 </div>
@@ -1233,6 +1369,14 @@ menu = &quot;main&quot;
             
             <li class="category-list-item">
                 
+                <a class="category-list-link" href="https://aaronjolson.github.io/tags/github">
+                    github
+                </a>
+                <span class="category-list-count">1</span>
+            </li>
+            
+            <li class="category-list-item">
+                
                 <a class="category-list-link" href="https://aaronjolson.github.io/tags/golang">
                     golang
                 </a>
@@ -1244,7 +1388,7 @@ menu = &quot;main&quot;
                 <a class="category-list-link" href="https://aaronjolson.github.io/tags/hugo">
                     hugo
                 </a>
-                <span class="category-list-count">1</span>
+                <span class="category-list-count">2</span>
             </li>
             
             <li class="category-list-item">
@@ -1318,6 +1462,9 @@ menu = &quot;main&quot;
         Tag cloud
     </h3>
     <div class="widget tagcloud">
+        
+        
+        <a href="https://aaronjolson.github.io/tags/github" style="font-size: 12px;">github</a>
         
         
         <a href="https://aaronjolson.github.io/tags/golang" style="font-size: 12px;">golang</a>
