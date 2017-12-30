@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Aaron&#39;s Blog</title>
-    <link>https://example.org/tags/python/</link>
+    <link>https://aaronjolson.github.io/tags/python/</link>
     <description>Recent content in Python on Aaron&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Aaron J. Olson - Powered by [Hugo](//gohugo.io).</copyright>
     <lastBuildDate>Sun, 24 Dec 2017 12:10:51 +0200</lastBuildDate>
     
-	<atom:link href="https://example.org/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaronjolson.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migrating A Simple Python setup from MacOS or Ubuntu to Windows</title>
-      <link>https://example.org/2017/12/24/migrating-a-simple-python-setup-from-macos-or-ubuntu-to-windows/</link>
+      <link>https://aaronjolson.github.io/2017/12/24/migrating-a-simple-python-setup-from-macos-or-ubuntu-to-windows/</link>
       <pubDate>Sun, 24 Dec 2017 12:10:51 +0200</pubDate>
       
-      <guid>https://example.org/2017/12/24/migrating-a-simple-python-setup-from-macos-or-ubuntu-to-windows/</guid>
+      <guid>https://aaronjolson.github.io/2017/12/24/migrating-a-simple-python-setup-from-macos-or-ubuntu-to-windows/</guid>
       <description>Recently I purchased an Acer gaming laptop loaded with Windows 10. I was really attracted to the quality of the hardware vs the price. The hard part would be moving off of the Unix type environment I&amp;rsquo;ve been used to. Adjusting to Windows took a little tweaking on my part. My goal was to get my workflow as similar as possible with the least amount of effort. I didn&amp;rsquo;t want to have to deal with the Bash on Ubuntu on Windows conncector.</description>
     </item>
     
