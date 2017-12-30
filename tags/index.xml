@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>https://aaronjolson.github.io/tags/golang/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://aaronjolson.github.io/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hugo</title>
       <link>https://aaronjolson.github.io/tags/hugo/</link>
       <pubDate>Sat, 30 Dec 2017 12:10:51 +0200</pubDate>
@@ -49,47 +40,11 @@
     </item>
     
     <item>
-      <title>Markdown</title>
-      <link>https://aaronjolson.github.io/tags/markdown/</link>
-      <pubDate>Sat, 20 May 2017 12:10:51 +0200</pubDate>
-      
-      <guid>https://aaronjolson.github.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://aaronjolson.github.io/tags/new/</link>
-      <pubDate>Sat, 20 May 2017 12:10:51 +0200</pubDate>
-      
-      <guid>https://aaronjolson.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://aaronjolson.github.io/tags/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://aaronjolson.github.io/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Python</title>
       <link>https://aaronjolson.github.io/tags/python/</link>
       <pubDate>Sun, 24 Dec 2017 12:10:51 +0200</pubDate>
       
       <guid>https://aaronjolson.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>https://aaronjolson.github.io/tags/theme/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://aaronjolson.github.io/tags/theme/</guid>
       <description></description>
     </item>
     

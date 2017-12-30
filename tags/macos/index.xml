@@ -13,11 +13,11 @@
     
     
     <item>
-      <title>Migrating A Simple Python setup from MacOS or Ubuntu to Windows</title>
-      <link>https://aaronjolson.github.io/2017/12/24/migrating-a-simple-python-setup-from-macos-or-ubuntu-to-windows/</link>
+      <title>Learning to Use Python with Windows Coming from Unix</title>
+      <link>https://aaronjolson.github.io/2017/12/24/learning-to-use-python-with-windows-coming-from-unix/</link>
       <pubDate>Sun, 24 Dec 2017 12:10:51 +0200</pubDate>
       
-      <guid>https://aaronjolson.github.io/2017/12/24/migrating-a-simple-python-setup-from-macos-or-ubuntu-to-windows/</guid>
+      <guid>https://aaronjolson.github.io/2017/12/24/learning-to-use-python-with-windows-coming-from-unix/</guid>
       <description>Recently I purchased an Acer gaming laptop loaded with Windows 10. I was really attracted to the quality of the hardware vs the price. The hard part would be moving off of the Unix type environment I&amp;rsquo;ve been used to. Adjusting to Windows took a little tweaking on my part. My goal was to get my workflow as similar as possible with the least amount of effort. I didn&amp;rsquo;t want to have to deal with the Bash on Ubuntu on Windows conncector.</description>
     </item>
     

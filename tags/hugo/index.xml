@@ -21,15 +21,5 @@
       <description>It has taken me a while to come to like Hugo. It is very fast but a lot of the documentation around how to do simple things is convoluted. I wanted to publish my Hugo site on Github Pages, just on the master branch master. Most of the documentation I was finding involved 20 line bash scripts. I figured there had to be a more simple way so I sat down and learned some fundamentals.</description>
     </item>
     
-    <item>
-      <title>How to add pages to the menu</title>
-      <link>https://aaronjolson.github.io/2015/10/02/how-to-add-pages-to-the-menu/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://aaronjolson.github.io/2015/10/02/how-to-add-pages-to-the-menu/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  </description>
-    </item>
-    
   </channel>
 </rss>
