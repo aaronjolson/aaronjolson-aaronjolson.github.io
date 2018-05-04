@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Computer on Aaron J. Olson&#39;s Blog</title>
+    <link>https://aaronjolson.github.io/tags/new-computer/</link>
+    <description>Recent content in New Computer on Aaron J. Olson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Aaron J. Olson - Powered by [Hugo](//gohugo.io).</copyright>
+    <lastBuildDate>Sun, 20 May 2018 12:10:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://aaronjolson.github.io/tags/new-computer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>List of Software I Keep on My Computers</title>
+      <link>https://aaronjolson.github.io/2018/05/20/list-of-software-i-keep-on-my-computers/</link>
+      <pubDate>Sun, 20 May 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aaronjolson.github.io/2018/05/20/list-of-software-i-keep-on-my-computers/</guid>
+      <description> In the event that I have to replace a computer, these are the software packages that I get (in the order I need them)  Google Chrome Sublime text Pycharm Evernote Git (and Gitbash if I&amp;rsquo;m on windows) 7zip Visual studio code Krita Openshot Audacity OBS Handbrake FFMPEG Youtube-dl Spotify Docker WinDirStat (grand perspecive on OSX)  For Video Game Work  Blender Unity3D Zbrush 4 (If I need to do some serious 3D work) Razer Cortex (Windows only)  </description>
+    </item>
+    
+  </channel>
+</rss>
