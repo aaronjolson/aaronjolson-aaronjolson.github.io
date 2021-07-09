@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>New Computer on Aaron J. Olson&#39;s Blog</title>
+    <title>new computer on Aaron J. Olson&#39;s Blog</title>
     <link>https://aaronjolson.github.io/tags/new-computer/</link>
-    <description>Recent content in New Computer on Aaron J. Olson&#39;s Blog</description>
+    <description>Recent content in new computer on Aaron J. Olson&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Aaron J. Olson - Powered by [Hugo](//gohugo.io).</copyright>
-    <lastBuildDate>Sun, 20 May 2018 12:10:51 +0200</lastBuildDate>
-    
-	<atom:link href="https://aaronjolson.github.io/tags/new-computer/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 20 May 2021 17:10:51 +0200</lastBuildDate><atom:link href="https://aaronjolson.github.io/tags/new-computer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>List of Software I Keep on My Computers</title>
-      <link>https://aaronjolson.github.io/2018/05/20/list-of-software-i-keep-on-my-computers/</link>
-      <pubDate>Sun, 20 May 2018 12:10:51 +0200</pubDate>
+      <link>https://aaronjolson.github.io/2021/05/20/list-of-software-i-keep-on-my-computers/</link>
+      <pubDate>Thu, 20 May 2021 17:10:51 +0200</pubDate>
       
-      <guid>https://aaronjolson.github.io/2018/05/20/list-of-software-i-keep-on-my-computers/</guid>
-      <description> In the event that I have to replace a computer, these are the software packages that I get (in the order I need them)  Google Chrome Sublime text Pycharm Evernote Git (and Gitbash if I&amp;rsquo;m on windows) 7zip Visual studio code Krita Openshot Audacity OBS Handbrake FFMPEG Youtube-dl Spotify Docker WinDirStat (grand perspecive on OSX)  For Video Game Work  Blender Unity3D Zbrush 4 (If I need to do some serious 3D work) Razer Cortex (Windows only)  </description>
+      <guid>https://aaronjolson.github.io/2021/05/20/list-of-software-i-keep-on-my-computers/</guid>
+      <description>In the event that I have to replace a computer these are the software packages that I need to download. General productivity  Google Chrome Pycharm Visual studio code Evernote Git WinDirStat (grand perspecive on OSX) Spotify Docker Sublime text  For multi-media  Openshot Audacity OBS Handbrake FFMPEG Krita Youtube-dl  For 3D Work  Blender Zbrush (If I need to do some serious 3D work)  Windows specific utilities  7zip Gitbash Chocolately (for package management) Sagethumbs (for better thumbnail support)  Mac Specific utilities  zsh mediaInfo ($0.</description>
     </item>
     
   </channel>

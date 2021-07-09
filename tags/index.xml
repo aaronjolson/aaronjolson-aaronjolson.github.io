@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aaron J. Olson&#39;s Blog</title>
@@ -6,14 +6,54 @@
     <description>Recent content in Tags on Aaron J. Olson&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Aaron J. Olson - Powered by [Hugo](//gohugo.io).</copyright>
-    <lastBuildDate>Sat, 30 Dec 2017 12:10:51 +0200</lastBuildDate>
-    
-	<atom:link href="https://aaronjolson.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 27 Jun 2021 20:10:51 +0200</lastBuildDate><atom:link href="https://aaronjolson.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>python</title>
+      <link>https://aaronjolson.github.io/tags/python/</link>
+      <pubDate>Sun, 27 Jun 2021 20:10:51 +0200</pubDate>
+      
+      <guid>https://aaronjolson.github.io/tags/python/</guid>
+      <description></description>
+    </item>
     
     <item>
-      <title>Github</title>
+      <title>software development</title>
+      <link>https://aaronjolson.github.io/tags/software-development/</link>
+      <pubDate>Sun, 27 Jun 2021 20:10:51 +0200</pubDate>
+      
+      <guid>https://aaronjolson.github.io/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new computer</title>
+      <link>https://aaronjolson.github.io/tags/new-computer/</link>
+      <pubDate>Thu, 20 May 2021 17:10:51 +0200</pubDate>
+      
+      <guid>https://aaronjolson.github.io/tags/new-computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://aaronjolson.github.io/tags/software/</link>
+      <pubDate>Thu, 20 May 2021 17:10:51 +0200</pubDate>
+      
+      <guid>https://aaronjolson.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://aaronjolson.github.io/tags/git/</link>
+      <pubDate>Sun, 14 Oct 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aaronjolson.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
       <link>https://aaronjolson.github.io/tags/github/</link>
       <pubDate>Sat, 30 Dec 2017 12:10:51 +0200</pubDate>
       
@@ -22,7 +62,7 @@
     </item>
     
     <item>
-      <title>Hugo</title>
+      <title>hugo</title>
       <link>https://aaronjolson.github.io/tags/hugo/</link>
       <pubDate>Sat, 30 Dec 2017 12:10:51 +0200</pubDate>
       
@@ -31,7 +71,7 @@
     </item>
     
     <item>
-      <title>Macos</title>
+      <title>macOS</title>
       <link>https://aaronjolson.github.io/tags/macos/</link>
       <pubDate>Sun, 24 Dec 2017 12:10:51 +0200</pubDate>
       
@@ -40,34 +80,7 @@
     </item>
     
     <item>
-      <title>New Computer</title>
-      <link>https://aaronjolson.github.io/tags/new-computer/</link>
-      <pubDate>Sun, 20 May 2018 12:10:51 +0200</pubDate>
-      
-      <guid>https://aaronjolson.github.io/tags/new-computer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://aaronjolson.github.io/tags/python/</link>
-      <pubDate>Sun, 24 Dec 2017 12:10:51 +0200</pubDate>
-      
-      <guid>https://aaronjolson.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://aaronjolson.github.io/tags/software/</link>
-      <pubDate>Sun, 20 May 2018 12:10:51 +0200</pubDate>
-      
-      <guid>https://aaronjolson.github.io/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Windows</title>
+      <title>windows</title>
       <link>https://aaronjolson.github.io/tags/windows/</link>
       <pubDate>Sun, 24 Dec 2017 12:10:51 +0200</pubDate>
       

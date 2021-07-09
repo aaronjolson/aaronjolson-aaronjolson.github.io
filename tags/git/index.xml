@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Aaron J. Olson&#39;s Blog</title>
+    <link>https://aaronjolson.github.io/tags/git/</link>
+    <description>Recent content in git on Aaron J. Olson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Oct 2018 12:10:51 +0200</lastBuildDate><atom:link href="https://aaronjolson.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Removing Ignored Files Previously Committed in Git Project</title>
+      <link>https://aaronjolson.github.io/2018/10/14/removing-ignored-files-previously-committed-in-git-project/</link>
+      <pubDate>Sun, 14 Oct 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aaronjolson.github.io/2018/10/14/removing-ignored-files-previously-committed-in-git-project/</guid>
+      <description>Sometimes when working on a project we decide to update the .gitignore file with files that have already been committed and pushed into the repository. THis is a guide on how to get those files out of the repository.
+This guide assumes you have no important changes uncommitted.
+Run this gets up to date with master
+git reset --hard origin/master Make any desired updates to the .gitignore file at this point and then run</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,90 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://aaronjolson.github.io/2018/05/20/list-of-software-i-keep-on-my-computers/</loc>
-    <lastmod>2018-05-20T12:10:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronjolson.github.io/2017/12/30/simple-hugo-hosting-on-github/</loc>
-    <lastmod>2017-12-30T12:10:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronjolson.github.io/2017/12/24/learning-to-use-python-with-windows-coming-from-unix/</loc>
-    <lastmod>2017-12-24T12:10:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronjolson.github.io/about/</loc>
-    <lastmod>2017-05-19T21:49:20+02:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://aaronjolson.github.io/</loc>
-    <lastmod>2018-05-20T12:10:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-27T20:10:51+02:00</lastmod>
+  </url><url>
     <loc>https://aaronjolson.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-27T20:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/categories/learning/</loc>
+    <lastmod>2021-06-27T20:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/post/</loc>
+    <lastmod>2021-06-27T20:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/categories/python/</loc>
+    <lastmod>2021-06-27T20:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/tags/python/</loc>
+    <lastmod>2021-06-27T20:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/2021/06/27/python-learning-resources/</loc>
+    <lastmod>2021-06-27T20:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/categories/resources/</loc>
+    <lastmod>2021-06-27T20:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/tags/software-development/</loc>
+    <lastmod>2021-06-27T20:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/tags/</loc>
+    <lastmod>2021-06-27T20:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/2021/05/20/list-of-software-i-keep-on-my-computers/</loc>
+    <lastmod>2021-05-20T17:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/tags/new-computer/</loc>
+    <lastmod>2021-05-20T17:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/tags/software/</loc>
+    <lastmod>2021-05-20T17:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/about/</loc>
+    <lastmod>2021-05-19T21:49:20+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/tags/git/</loc>
+    <lastmod>2018-10-14T12:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/2018/10/14/removing-ignored-files-previously-committed-in-git-project/</loc>
+    <lastmod>2018-10-14T12:10:51+02:00</lastmod>
+  </url><url>
     <loc>https://aaronjolson.github.io/tags/github/</loc>
     <lastmod>2017-12-30T12:10:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronjolson.github.io/tags/hugo/</loc>
     <lastmod>2017-12-30T12:10:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aaronjolson.github.io/2017/12/30/simple-hugo-hosting-on-github/</loc>
+    <lastmod>2017-12-30T12:10:51+02:00</lastmod>
+  </url><url>
+    <loc>https://aaronjolson.github.io/2017/12/24/learning-to-use-python-with-windows-coming-from-unix/</loc>
+    <lastmod>2017-12-24T12:10:51+02:00</lastmod>
+  </url><url>
     <loc>https://aaronjolson.github.io/tags/macos/</loc>
     <lastmod>2017-12-24T12:10:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaronjolson.github.io/tags/new-computer/</loc>
-    <lastmod>2018-05-20T12:10:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaronjolson.github.io/post/</loc>
-    <lastmod>2018-05-20T12:10:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaronjolson.github.io/tags/python/</loc>
-    <lastmod>2017-12-24T12:10:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaronjolson.github.io/tags/software/</loc>
-    <lastmod>2018-05-20T12:10:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaronjolson.github.io/tags/</loc>
-    <lastmod>2017-12-30T12:10:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronjolson.github.io/tags/windows/</loc>
     <lastmod>2017-12-24T12:10:51+02:00</lastmod>
-    <priority>0</priority>
   </url>
-  
 </urlset>

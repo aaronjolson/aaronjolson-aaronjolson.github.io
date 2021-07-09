@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aaron J. Olson&#39;s Blog</title>
@@ -6,19 +6,37 @@
     <description>Recent content on Aaron J. Olson&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Aaron J. Olson - Powered by [Hugo](//gohugo.io).</copyright>
-    <lastBuildDate>Sun, 20 May 2018 12:10:51 +0200</lastBuildDate>
-    
-	<atom:link href="https://aaronjolson.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 27 Jun 2021 20:10:51 +0200</lastBuildDate><atom:link href="https://aaronjolson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Learning Resources</title>
+      <link>https://aaronjolson.github.io/2021/06/27/python-learning-resources/</link>
+      <pubDate>Sun, 27 Jun 2021 20:10:51 +0200</pubDate>
+      
+      <guid>https://aaronjolson.github.io/2021/06/27/python-learning-resources/</guid>
+      <description>I have been asked several times in the last few months if I have any suggested resources for learning Python. This is a list of high quality Python learning materials that I have found online.
+Youtube playlists &amp;amp; tutorials thenewboston thenewboston has a very entertaining and well done Python basics tutorial playlist. If you are brand new to programming and/or Python I would recommend starting here. https://www.youtube.com/watch?v=HBxCHonP6Ro&amp;amp;list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
+Corey Schafer https://www.youtube.com/c/Coreyms/featured Includes many videos on various programming topics, the Python and Flask tutorial playlists are great.</description>
+    </item>
     
     <item>
       <title>List of Software I Keep on My Computers</title>
-      <link>https://aaronjolson.github.io/2018/05/20/list-of-software-i-keep-on-my-computers/</link>
-      <pubDate>Sun, 20 May 2018 12:10:51 +0200</pubDate>
+      <link>https://aaronjolson.github.io/2021/05/20/list-of-software-i-keep-on-my-computers/</link>
+      <pubDate>Thu, 20 May 2021 17:10:51 +0200</pubDate>
       
-      <guid>https://aaronjolson.github.io/2018/05/20/list-of-software-i-keep-on-my-computers/</guid>
-      <description> In the event that I have to replace a computer, these are the software packages that I get (in the order I need them)  Google Chrome Sublime text Pycharm Evernote Git (and Gitbash if I&amp;rsquo;m on windows) 7zip Visual studio code Krita Openshot Audacity OBS Handbrake FFMPEG Youtube-dl Spotify Docker WinDirStat (grand perspecive on OSX)  For Video Game Work  Blender Unity3D Zbrush 4 (If I need to do some serious 3D work) Razer Cortex (Windows only)  </description>
+      <guid>https://aaronjolson.github.io/2021/05/20/list-of-software-i-keep-on-my-computers/</guid>
+      <description>In the event that I have to replace a computer these are the software packages that I need to download. General productivity  Google Chrome Pycharm Visual studio code Evernote Git WinDirStat (grand perspecive on OSX) Spotify Docker Sublime text  For multi-media  Openshot Audacity OBS Handbrake FFMPEG Krita Youtube-dl  For 3D Work  Blender Zbrush (If I need to do some serious 3D work)  Windows specific utilities  7zip Gitbash Chocolately (for package management) Sagethumbs (for better thumbnail support)  Mac Specific utilities  zsh mediaInfo ($0.</description>
+    </item>
+    
+    <item>
+      <title>Removing Ignored Files Previously Committed in Git Project</title>
+      <link>https://aaronjolson.github.io/2018/10/14/removing-ignored-files-previously-committed-in-git-project/</link>
+      <pubDate>Sun, 14 Oct 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://aaronjolson.github.io/2018/10/14/removing-ignored-files-previously-committed-in-git-project/</guid>
+      <description>Sometimes when working on a project we decide to update the .gitignore file with files that have already been committed and pushed into the repository. THis is a guide on how to get those files out of the repository.
+This guide assumes you have no important changes uncommitted.
+Run this gets up to date with master
+git reset --hard origin/master Make any desired updates to the .gitignore file at this point and then run</description>
     </item>
     
     <item>
@@ -27,7 +45,7 @@
       <pubDate>Sat, 30 Dec 2017 12:10:51 +0200</pubDate>
       
       <guid>https://aaronjolson.github.io/2017/12/30/simple-hugo-hosting-on-github/</guid>
-      <description>It has taken me a while to come to like Hugo. It is very fast but a lot of the documentation around how to do simple things is convoluted. I wanted to publish my Hugo site on Github Pages, just on the master branch master. Most of the documentation I was finding involved 20 line bash scripts. I figured there had to be a more simple way so I sat down and learned some fundamentals.</description>
+      <description>It has taken me a while to come to like Hugo. It is very fast but a lot of the documentation around how to do simple things is convoluted. I wanted to publish my Hugo site on Github Pages, just on the master branch. Most of the documentation I was finding involved 20 line bash scripts. I figured there had to be a more simple way so I sat down and learned some fundamentals.</description>
     </item>
     
     <item>
